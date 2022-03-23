@@ -1,0 +1,25 @@
+{
+  "name": "week_12_homework_assignment",
+  "version": "1.0.0",
+  "description": "A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Syed Hasnat <hasnat@live.com.au> ",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahasnat/week_12_homework_assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sahasnat/week_12_homework_assignment/issues"
+  },
+  "homepage": "https://github.com/sahasnat/week_12_homework_assignment#readme"
+}
